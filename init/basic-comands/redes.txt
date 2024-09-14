@@ -1,0 +1,6 @@
+#Redes	
+ping		- Testa conectividade com outros hosts
+ifconfig/ip	-  Configurações de interface
+netstat		- Mostra conexões de rede
+traceroute	- Traça o caminho até um destino
+ssh		- Conecta a outros hosts via SSH

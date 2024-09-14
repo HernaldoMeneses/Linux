@@ -1,0 +1,15 @@
+# sudo apt-get update			- Atualiza a lista de pacotes disponíveis
+# sudo apt-get upgrade			- atualiza os pacotes intalados
+# sudo apt-get install pkg-name		- instala o pacote pkg-name
+# sudo apt-get remove pkg-name		- remove pacote
+# sudo apt-get autoremove		- automativamente instalados desnecessários
+# sudo apt-get clean			- Limpa o cache dos pacotes baixados
+# sudo systemctl start service-name 	- Inicia um serviço
+# sudo systemctl stop service-name
+# sudo systemctl status service-name
+# sudo reboot				- Reinicia o Sistema
+# sudo shutdown now			- Desliga o sistema
+# sudo fdisk -l 			- Lista as partições de disco.
+# sudo cp /path/Origin /path/destino	- Copia arquivos ou diretórios
+# sudo mv /path/Origin /path/destino	- Move arquivos ou diretórios
+# sudo rm /path/Origin 			- Remove arquivos ou diretórios

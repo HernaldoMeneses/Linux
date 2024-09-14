@@ -1,0 +1,9 @@
+#Navegação e Arquivos
+ls	 - Lista arquivos e diretórios
+cd	 - Muda o diretório atual
+pwd	 - Mostra o diretório atual
+cp 	 - Copia arquivos e diretórios
+mv 	 - Move ou renomei arquivos
+rm	 - Remove arquivos e diretórios
+mkdir 	 - Cria um novo diretório
+rmdir 	 - Remove um diretório vazio

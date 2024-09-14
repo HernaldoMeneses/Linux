@@ -1,0 +1,7 @@
+#Sistemas
+df		- Mostra o uso do disco
+du		- Mostra o uso do espaço por diretório
+free		- Mostra o uso de memória
+uname		- Mostra informações do sistema
+reboot		- reinicia o sistema
+shutdown	- Desliga o sitema

@@ -1,0 +1,9 @@
+# ls				 - list directory
+# cd				 - change directory
+# cd ..				 - retorna directory
+# cd /				 - directory raiz
+# cd ~				 - directory home
+# find /home -name filename.ext	 - busca filename.ext
+# echo >> file.ext		 - redireciona echo para o arquivo
+
+

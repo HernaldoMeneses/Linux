@@ -1,0 +1,6 @@
+#Permissões e Usuários
+chmod	- Modifica permissões de arquivos
+chown	- Modifica o proprietário de arquivos
+adduser - adiciona um novo usuário
+deluser - delete um usuário
+passwd 	- Altera a senha de um usuário

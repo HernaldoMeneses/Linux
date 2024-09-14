@@ -1,0 +1,5 @@
+#Gerenciamento de Processos
+ps	- lista processos em execução
+top	- Mostra processos em tempo real
+kill	- Encerra um processo
+htop	- Visualiza processos com + detalhes

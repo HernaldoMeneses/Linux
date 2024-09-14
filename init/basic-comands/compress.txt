@@ -1,0 +1,5 @@
+#Bakups e Compressão
+tar	- Arquiva e comprime arquivos
+gzip	- Comprime arquivos
+rsunc	- Sincroniza e faz backups de arquivos
+dd	- Clonagem de discos ou partiçoes
