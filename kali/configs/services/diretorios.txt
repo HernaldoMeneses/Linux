@@ -1,0 +1,2 @@
+/usr/share/doc/package/README  # information about the package configuretion
+/usr/share/doc/package/examples  # information about the package configuretion

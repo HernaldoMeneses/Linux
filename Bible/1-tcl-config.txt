@@ -1,0 +1,4 @@
+#listar layout teclado
+dpkg-reconfigure keyboard-configuration
+setxkbmap -query #Config Atual Teclado
+setxkbmap -layout br -variant abnt2 #Config pra abnt2 br

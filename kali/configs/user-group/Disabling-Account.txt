@@ -1,0 +1,2 @@
+passwd -l user # (lock) user
+passwd -u user # (unlock) user

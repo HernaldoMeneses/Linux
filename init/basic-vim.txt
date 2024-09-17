@@ -1,0 +1,47 @@
+Para abrir um arquivo com o vim basta digitar
+vim filename.ext
+
+Ele abrirá no modo "Normal"
+para mudar o modo e poder editar o arquivo ou pesquisar digite esc + opcao
+a opçao é indicado por algum caracter.
+
+esc
+	Navegar no texto:
+		mover o cursor		para
+			esqueda		'h'
+			baixo		'j'
+			cima		'k'
+			direita		'l'
+esc
+	Inserir Texto:
+		entrar no modo de		inserção
+			anteds do cursor	'i'
+			iinicio da linha	'I'
+			após cursor 		'a'
+			final da linha		'A'
+			
+			new line abaixo		'o'
+			new line acima		'O'
+esc
+	Salvar e Sair			modo
+		salvar(writh)		':w'
+		sair(quite)		':q'
+		salvar e sair		':wq'
+		salvar e sair		':x'
+		sair sem salvar		':q!'
+esc
+	Copiar, Recortar e Colar		modo
+		Copiar linha atual		'yy'
+		Recortar a linha atual		'dd'
+		Colar o Texto opós cursor	'p'
+		Colar o textto antes cursor	'P'
+esc
+	Desfazer e Refazer		modo
+		desfazer ultima		'u'
+		Refazer ação desfeita	'Ctrl + r'
+esc
+	Selecionar Texto
+		'v'
+
+end_file
+							

@@ -1,0 +1,5 @@
+passwd # permits a regular user to change ther password
+chfn # Change Full Name
+chsh # Change Shell
+change # Change AGE change password expiration settings
+passwd -e user # Change AGE change password expiration settings forcerd

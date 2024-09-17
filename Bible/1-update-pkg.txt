@@ -1,0 +1,4 @@
+# -2| Atualizar os pacotes do Sistema
+#Update
+sudo apt update
+sudo apt upgrade

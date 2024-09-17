@@ -1,0 +1,4 @@
+/etc/passwd # list of users
+/etc/shadow # encrypted passwords of users
+/etc/group # list of groups
+/etc/gshadow # encrupted passwords of groups
