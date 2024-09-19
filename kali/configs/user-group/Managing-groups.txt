@@ -1,5 +1,0 @@
-addgroup # new group
-delgroup # delet group
-groupmod # modifies group
-gpasswdgroup # modifies password group
-gpasswd -r group  # deletes password group
